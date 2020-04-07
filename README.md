@@ -1,2 +1,2 @@
 # Competitive-Prgoramming
-Practice for competitive programming with description of algorithms used to solve particular problem. 
+Solution and idea to solve international competitive programming contest including google code jam, hash code and kickstart etc. 
